@@ -1,0 +1,6 @@
+interface:
+  display_name: "Project Kickoff"
+  short_description: "Adaptive discovery before implementation"
+  default_prompt: "Use $project-kickoff to turn my idea into an approved project brief before implementation."
+policy:
+  allow_implicit_invocation: true
