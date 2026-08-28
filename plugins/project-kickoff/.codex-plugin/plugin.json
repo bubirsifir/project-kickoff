@@ -1,7 +1,7 @@
 {
   "name": "project-kickoff",
   "version": "0.1.0",
-  "description": "Runs an adaptive project discovery interview before implementation and produces an approved, decision-backed project brief.",
+  "description": "Stops AI from filling missing project decisions with generic assumptions, then runs adaptive discovery before implementation.",
   "author": {
     "name": "Serhat",
     "url": "https://github.com/bubirsifir"
@@ -19,8 +19,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Project Kickoff",
-    "shortDescription": "Adaptive discovery before implementation",
-    "longDescription": "Turns an early idea or existing-project request into an approved project brief through a concise, adaptive, one-question-at-a-time interview.",
+    "shortDescription": "Before AI builds, it asks",
+    "longDescription": "Prevents template-shaped AI projects by turning an early idea or existing-project request into an approved, decision-backed brief through an adaptive interview.",
     "developerName": "Serhat",
     "category": "Productivity",
     "websiteURL": "https://github.com/bubirsifir/project-kickoff",
