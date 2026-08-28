@@ -1,8 +1,22 @@
 # Project Kickoff
 
-Project Kickoff is an adaptive discovery skill for ChatGPT and Codex. It turns an early idea, new product request, or material change to an existing project into an approved `PROJECT-BRIEF.md` before implementation begins.
+![Project Kickoff launch visual](project-kickoff-launch.png)
 
-It does not make users complete a long form. It inspects what is already known, asks one high-impact question at a time, explains tradeoffs, recommends a direction, and skips irrelevant branches.
+> **Before AI builds, it asks.**
+
+Project Kickoff prevents AI from jumping straight into implementation and filling missing decisions with generic assumptions.
+
+Before any code is written, it runs an adaptive, one-question-at-a-time discovery interview to understand the real problem, users, platforms, scope, experience direction, constraints, and success criteria.
+
+The result is not another template-shaped AI project. It is a decision-backed project brief grounded in the user's actual needs.
+
+## Why it exists
+
+AI project generators often begin building before the important decisions have been made. Missing context gets replaced with familiar defaults: the same dashboard structures, feature-card grids, oversized hero sections, rounded buttons, gradient-heavy visuals, and generic product language.
+
+Project Kickoff interrupts that pattern. It asks what actually needs to be decided, explains the consequences, recommends a direction when useful, and records the answers in `PROJECT-BRIEF.md`. The user approves the brief before implementation begins.
+
+It does not make users complete a long form. It inspects what is already known, asks one high-impact question at a time, and skips irrelevant branches.
 
 ## What it covers
 
