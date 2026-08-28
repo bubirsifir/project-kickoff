@@ -1,0 +1,37 @@
+{
+  "name": "project-kickoff",
+  "version": "0.1.0",
+  "description": "Runs an adaptive project discovery interview before implementation and produces an approved, decision-backed project brief.",
+  "author": {
+    "name": "Serhat",
+    "url": "https://github.com/bubirsifir"
+  },
+  "homepage": "https://github.com/bubirsifir/project-kickoff#readme",
+  "repository": "https://github.com/bubirsifir/project-kickoff",
+  "license": "MIT",
+  "keywords": [
+    "project-discovery",
+    "product-strategy",
+    "requirements",
+    "project-brief",
+    "planning"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Project Kickoff",
+    "shortDescription": "Adaptive discovery before implementation",
+    "longDescription": "Turns an early idea or existing-project request into an approved project brief through a concise, adaptive, one-question-at-a-time interview.",
+    "developerName": "Serhat",
+    "category": "Productivity",
+    "websiteURL": "https://github.com/bubirsifir/project-kickoff",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Start a new project kickoff with me.",
+      "Help me turn this idea into an approved project brief.",
+      "Review this existing project before we plan the change."
+    ]
+  }
+}
