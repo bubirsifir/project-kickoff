@@ -105,3 +105,5 @@ Ask for approval or corrections. After approval, mark the brief approved with th
 ## Quality bar
 
 A successful kickoff is concise but decision-complete. It should prevent expensive rework without turning into an endless interview. Prefer evidence and recommendations over generic questions. Challenge contradictory scope or unnecessary platform expansion respectfully. Do not invent market facts, legal requirements, integrations, budgets, deadlines, or stakeholder approval.
+
+Treat familiar AI-generated product patterns as unconfirmed assumptions, not defaults. Do not introduce a dashboard, card grid, oversized hero, pill-heavy interface, gradient-led visual language, generic marketing claims, or fashionable technology merely because it is common in generated projects. Derive information architecture, interaction patterns, visual direction, content, and technical choices from the confirmed users, problem, context, and constraints. These patterns are not forbidden when the brief gives them a real purpose; require a reason instead of applying them automatically.
