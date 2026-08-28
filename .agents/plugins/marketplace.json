@@ -1,0 +1,20 @@
+{
+  "name": "project-kickoff",
+  "interface": {
+    "displayName": "Project Kickoff"
+  },
+  "plugins": [
+    {
+      "name": "project-kickoff",
+      "source": {
+        "source": "local",
+        "path": "./plugins/project-kickoff"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
